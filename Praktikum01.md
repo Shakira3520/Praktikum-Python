@@ -24,7 +24,7 @@ PRAKTIKUM 4.10
 
 3. PROGRAM MENGHITUNG PENJUALAN BUKU
 
-![Screenshot (286)](https://user-images.githubusercontent.com/92997232/141745733-58a62816-305d-4457-bd86-1715fb264741.png
+![Screenshot (286)](https://user-images.githubusercontent.com/92997232/141745733-58a62816-305d-4457-bd86-1715fb264741.png)
 
 4. PROGRAM MENGHITUNG TAGIHAN TELEPON
 
@@ -34,11 +34,12 @@ PRAKTIKUM 4.10
 
 5. PROGRAM GAJI PEGAWAI
 
-![5  GAJI PEGAWAI](https://user-images.githubusercontent.com/92997232/141751672-e60bfcf5-e9d7-433a-b53d-0217357aa6d2.png)
+![5  GAJI PEGAWAI](https://user-images.githubusercontent.com/92997232/141778015-33046f34-bcf0-428b-992d-a8d4f1a2ba5f.png)
 
-![Screenshot (288)](https://user-images.githubusercontent.com/92997232/141751867-1fd72099-1542-4f67-abb9-aa00dcf6f495.png)
+![Screenshot (289)](https://user-images.githubusercontent.com/92997232/141778086-bd999ea0-49fc-4ead-bb1a-183f57e127eb.png)
 
 6. PROGRAM GAJI DAN HUTANG
 
+![Screenshot (290)](https://user-images.githubusercontent.com/92997232/141780450-6cc79ec6-00a4-4efa-9f55-e7dfbdce96b4.png)
 
 
