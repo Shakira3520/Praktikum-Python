@@ -72,9 +72,13 @@ KELAS : AI-A
 
 - Code Program
 
+![15  bil genap](https://user-images.githubusercontent.com/92997232/142647424-99082ae7-fb49-43ee-a10b-e81d1fdf3b7b.png)
 
+- Output
 
-5. PROGRAM MENGHITUNG FAKTORIAL DALAM FUNGSI
+![Screenshot (319)](https://user-images.githubusercontent.com/92997232/142647342-b7010744-b2ac-415a-9674-b15443e154fb.png)
+
+6. PROGRAM MENGHITUNG FAKTORIAL DALAM FUNGSI
 
 - Code Program
 
@@ -84,7 +88,7 @@ KELAS : AI-A
 
 ![Screenshot (316)](https://user-images.githubusercontent.com/92997232/142642354-2bdb7a8a-8e82-4926-9ea6-d256744873d7.png)
 
-6. PROGRAM MENJUMLAHKAN DATA DALAM 2 LIST
+7. PROGRAM MENJUMLAHKAN DATA DALAM 2 LIST
 
 - Code Program
 
@@ -94,7 +98,7 @@ KELAS : AI-A
 
 ![Screenshot (317)](https://user-images.githubusercontent.com/92997232/142642479-e168d508-617f-43c0-891b-3ab28334f55d.png)
 
-7. MENGHITUNG AKAR-AKAR PERSAMAAN KUADRAT
+8. MENGHITUNG AKAR-AKAR PERSAMAAN KUADRAT
 
 - Code Program
 
