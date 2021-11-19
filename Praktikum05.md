@@ -68,6 +68,12 @@ KELAS : AI-A
 
 ![Screenshot (315)](https://user-images.githubusercontent.com/92997232/142638915-ab1ee9a3-a9d7-437f-822f-f165170e1e16.png)
 
+5. PROGRAM MENCARI BILANGAN GENAP
+
+- Code Program
+
+
+
 5. PROGRAM MENGHITUNG FAKTORIAL DALAM FUNGSI
 
 - Code Program
